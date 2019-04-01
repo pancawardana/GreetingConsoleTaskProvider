@@ -1,0 +1,14 @@
+{
+    "process": "main",
+    "project": "GreetingConsole",
+    "config": {
+        "OutputLocation": null,
+        "ContinueWhenError": false,
+        "PreProcessMustSucceed": true,
+        "PostProcessMustSucceed": false,
+        "WorkingLocation": "C:\\Polyrific\\Solution\\GreetingConsole\\CodeResult"
+    },
+    "additional": {
+        "Title": "Greeting Console"
+    }
+}
